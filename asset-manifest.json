@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/css/main.22753a41.chunk.css",
+    "main.js": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/js/main.24f39cfb.chunk.js",
+    "main.js.map": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/js/main.24f39cfb.chunk.js.map",
+    "runtime-main.js": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/js/runtime-main.38d74373.js",
+    "runtime-main.js.map": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/js/runtime-main.38d74373.js.map",
+    "static/js/2.cc89c075.chunk.js": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/js/2.cc89c075.chunk.js",
+    "static/js/2.cc89c075.chunk.js.map": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/js/2.cc89c075.chunk.js.map",
+    "index.html": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/index.html",
+    "static/css/main.22753a41.chunk.css.map": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/css/main.22753a41.chunk.css.map",
+    "static/js/2.cc89c075.chunk.js.LICENSE.txt": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/js/2.cc89c075.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/Frontend-Mentor-Intro-component-with-sign-up-form-solution/static/media/bg-intro-mobile.02ce3982.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.38d74373.js",
+    "static/js/2.cc89c075.chunk.js",
+    "static/css/main.22753a41.chunk.css",
+    "static/js/main.24f39cfb.chunk.js"
+  ]
+}
